@@ -8,7 +8,6 @@
 #include "SFML/Window.hpp"
 #include "SFML/Graphics.hpp"
 #include "Game.h"
-#include "Player.h"
 
 class Player {
 private:
